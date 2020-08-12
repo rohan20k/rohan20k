@@ -1,6 +1,6 @@
 ### Hi there, its great to have you here. 👋
 
-I am Rohan Khurana, pursuing my Masters in Information Management at the University of Washington, Seattle and this is my GitHub profile.Great to have you here. 
+I am Rohan Khurana, pursuing my Masters in Information Management at the University of Washington, Seattle and this is my GitHub profile.
 
 <!--
 **rohan20k/rohan20k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
