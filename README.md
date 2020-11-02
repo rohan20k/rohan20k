@@ -7,6 +7,7 @@ Hello! I Rohan Khurana, and I'm a graduate student pursuing a Master of Science 
 
 Prior to my pursuing my graduate degree in Seattle, I have received my Bachelors degree in Chemical Engineering from the [Birla Institute of Technology and Sciences Pilani, India](https://www.bits-pilani.ac.in/)
 
+<--
 **rohan20k/rohan20k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
