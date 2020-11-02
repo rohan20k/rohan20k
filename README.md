@@ -21,8 +21,6 @@ Birla Institute of Technology and Sciences Pilani
 Aug 2015 - Jun 2020  
 Goa, India
 
-  -------
-
 <!--
 **rohan20k/rohan20k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
