@@ -16,9 +16,9 @@ Seattle, Washington, United States
 
   ----------
 
-* __Bachelor of Engineering (BE) in Chemical Engineering__  
-Birla Institute of Technology and Sciences Pilani 
-Aug 2015 - Jun 2020  
+* __Bachelor of Engineering (BE) in Chemical Engineering__       
+Birla Institute of Technology and Sciences Pilani
+Aug 2015 - Jun 2020       
 Goa, India
 
 <!--
