@@ -3,7 +3,7 @@
 I am Rohan Khurana, pursuing my Masters in Information Management at the Information School at University of Washington, Seattle and this is my GitHub profile.
 
 ### A little bit about me -
-Hello! I Rohan Khurana, and I'm a graduate student pursuing a Master of Science degree in Information Management [University of Washington, Seattle](https://ischool.uw.edu/programs/msim)  pursuing a specialisation in Data Science. 
+I'm a graduate student pursuing a Master of Science degree in Information Management [University of Washington, Seattle](https://ischool.uw.edu/programs/msim)  pursuing a specialisation in Data Science. 
 
 Prior to my pursuing my graduate degree in Seattle, I have received my Bachelors degree in Chemical Engineering from the [Birla Institute of Technology and Sciences Pilani, India](https://www.bits-pilani.ac.in/)
 
